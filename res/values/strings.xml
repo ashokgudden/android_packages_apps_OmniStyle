@@ -24,4 +24,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">Home screen</string>
     <string name="wallpaper_type_lock">Lock screen</string>
     <string name="header_creator_label">Creator\u003a </string>
+    <string name="header_pack_label1">Screwd</string>
 </resources>
